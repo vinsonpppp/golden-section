@@ -1,0 +1,6 @@
+yum源安装需要配置epel-aliyun.repo
+yum install -y redis
+
+
+离线安装可用：
+yum localinstall -y redis /目录下的*.rpm
