@@ -1,0 +1,7 @@
+[postgesql-10]
+name=postgesql10
+baseurl=https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-latest-x86_64/
+failovermethod=priority
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-PGDG-10
